@@ -1,0 +1,8 @@
+com\igem\igem\config\SwaggerConfig.class
+com\igem\igem\controller\I4s_claController.class
+com\igem\igem\controller\I100_typController.class
+com\igem\igem\config\IGEMApplication.class
+com\igem\igem\controller\I3w_typController.class
+com\igem\igem\controller\I3w_100Controller.class
+com\igem\igem\controller\I30w_3wController.class
+com\igem\igem\controller\TestController.class
